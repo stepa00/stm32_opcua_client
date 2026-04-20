@@ -1,6 +1,6 @@
 # STM32 OPC UA project
 
-The most basic project of opc ua client using open62541 library on Necleo-F767zi board.
+The most basic project of opc ua client using open62541 library on Nucleo-F767zi board.
 
 OPC UA library set on FREERTOS + LWIP packages. 
 
